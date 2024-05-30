@@ -9,7 +9,7 @@ const { XMLParser } = require('fast-xml-parser')
 
 const config = {
   sockets: 100,
-  domain: 'com',
+  domain: 'it',
   format: 'png',
   revision: false,
   prod: false,
