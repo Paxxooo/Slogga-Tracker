@@ -79,3 +79,9 @@ jobs:
         with:
           default_author: github_actions
           add: resource
+          
+      - name: Send Discord Notification
+        run: |
+          curl -H "Content-Type: application/json" \
+          -d '{"username": "GitHub Actions", "content": "Nuovi aggiornamenti disponibili nel repository!"}' \
+          ${{ secrets.DISCORD_WEBHOOK_URL }}
