@@ -18264,6 +18264,7 @@ featured.offer.bundle419.title=Affare Stanza Galleria XVII
 featured.offer.bundle420.title=Affare Stanza Galleria XVIII
 featured.offer.bundle421.title=Affare Stanza Gallery XIX
 featured.offer.bundle422.title=Affare Stanza Vibrazioni Urbane
+featured.offer.bundle424.title=NUOVO: Affare Stanza Norja
 featured.offer.bundle43.title=Isola Resort Habbo
 featured.offer.bundle47.title=Castello d'Inverno
 featured.offer.bundle48.title=Affare Stanza Chalet con Focolare
