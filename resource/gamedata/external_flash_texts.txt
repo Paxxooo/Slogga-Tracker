@@ -35960,6 +35960,7 @@ settings.identification.title=Identificazione
 settings.identification.verification_code=Codice di verifica:
 settings.identification.verification_code_info=Codice di verifica inviato a: %email%
 settings.identification.verified.emails.info=Scegli uno dei tuoi indirizzi e-mail verificati per la comunicazione e la sicurezza all'interno di Habbo.
+settings.identification.verified.emails.title=Indirizzi e-mail verificati
 settings.identification.verify=Verificare
 settings.identification_not_allowed=Per la sicurezza del tuo account, l'accesso alle impostazioni di identificazione è consentito solo per un periodo di tempo limitato dopo il login. Tieni in conto che il login automatico su un dispositivo che ricorda i tuoi dati non conta, ma è necessario effettuare il login con le proprie credenziali.
 settings.language.preference_description= Tutte e nove le lingue qui elencate sono moderate su Habbo. Le regole della Community di Habbo X sono disponibili sul nostro sito web. 
