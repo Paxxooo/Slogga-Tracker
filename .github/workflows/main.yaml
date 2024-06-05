@@ -1,4 +1,5 @@
-name: Download Habbo Files
+name: Download and Convert Habbo Files
+
 on:
   schedule:
     - cron: '0 * * * *'
@@ -63,11 +64,22 @@ jobs:
       - name: Download Web Promo Images
         run: node src/index.js -c promo
 
+      - name: Install SWFTools
+        run: sudo apt-get install swftools
+
+      - name: Extract and Rename PNG from SWF
+        run: |
+          mkdir -p ./resource/dcr/hof_furni/png
+          for swf in ./resource/dcr/hof_furni/*.swf; do
+            swfextract -p 1 "$swf" -o "${swf%.swf}.png"
+            mv "${swf%.swf}.png" ./resource/dcr/hof_furni/png/
+          done
+
       # Add and commit changes
       - uses: EndBug/add-and-commit@v7
         with:
           default_author: github_actions
-          add: resource
+          add: 'resource/dcr/hof_furni/png'
 
       - name: Get Last Commit Info
         id: last_commit
