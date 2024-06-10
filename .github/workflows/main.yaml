@@ -1,89 +1,81 @@
-name: Download and Convert Habbo Files
-
+name: Download Habbo Files
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '0 */3 * * *'
   workflow_dispatch:
-
 jobs:
   main:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-
       - uses: actions/setup-node@v2
         with:
           node-version: 16
-
       - name: Install dependencies
         run: npm i
 
-      # Download various resources
+      # articles
       - name: Download News Article Images
         run: node src/index.js -c articles
 
+      # badgeparts
       - name: Download Badgeparts Images
         run: node src/index.js -c badgeparts
 
+      # badges
       - name: Download Badges
         run: node src/index.js -c badges
 
+      # clothes
       - name: Download Clothes
         run: node src/index.js -c clothes
 
+      # effects
       - name: Download Effects
         run: node src/index.js -c effects
 
+      # ficons
       - name: Download Furniture Icons
         run: node src/index.js -c ficons
 
+      # furnitures
       - name: Download Furnitures
         run: node src/index.js -c furnitures
 
+      # gamedata
       - name: Download Gamedata Files
         run: node src/index.js -c gamedata
 
+      # gordon
       - name: Download Gordon Files
         run: node src/index.js -c gordon
 
+      # habboswf
       - name: Download Habbo.swf
         run: node src/index.js -c habboswf
 
+      # hotelview
       - name: Download Hotelview Images
         run: node src/index.js -c hotelview
 
+      # icons
       - name: Download Catalogue Icons
         run: node src/index.js -c icons
 
-      - name: Download MP3 Files
+      # mp3
+      - name: Download MP3 Files (sound_machine_sample)
         run: node src/index.js -c mp3
 
+      # pets
       - name: Download Pets
         run: node src/index.js -c pets
 
+      # promo
       - name: Download Web Promo Images
         run: node src/index.js -c promo
 
-      - name: Convert SWF to PNG using Docker
-        run: |
-          mkdir -p ./resource/dcr/hof_furni/png
-          docker run --rm -v "${{ github.workspace }}/resource/dcr/hof_furni":/data efrecon/swftools \
-          /bin/bash -c "for swf in /data/*.swf; do swfextract -p 1 \$swf -o \${swf%.swf}.png; done"
-          
+      # commit
       - uses: EndBug/add-and-commit@v7
         with:
           default_author: github_actions
-          add: 'resource/dcr/hof_furni/png'
-          message: 'Add converted PNG files'
-
-      - name: Get Last Commit Info
-        id: last_commit
-        run: |
-          echo "::set-output name=message::$(git log -1 --pretty=format:'%B')"
-          echo "::set-output name=diff::$(git diff HEAD~1 HEAD)"
-
-      - name: Send Discord Notification
-        run: |
-          curl -H "Content-Type: application/json" \
-          -d "{\"username\": \"GitHub Actions\", \"content\": \"Ultimo commit: \n${{ steps.last_commit.outputs.message }}\nDiff:\n${{ steps.last_commit.outputs.diff }}\"}" \
-          ${{ secrets.DISCORD_WEBHOOK_URL }}
+          add: resource
