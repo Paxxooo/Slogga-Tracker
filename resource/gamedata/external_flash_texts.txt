@@ -10946,6 +10946,7 @@ badge_name_HGH17=Ho sfidato le mie paure
 badge_name_HGH18=Raro LTD La Fantasmacchina
 badge_name_HGH19=Sfida della Community Instagram
 badge_name_HHE01=Aiuto con la mostra
+badge_name_HHE05=Un tuffo nel passato!
 badge_name_HHE11=Affare Stanza Classico Ice Café
 badge_name_HHE12=Affare Stanza Festa in Piscina
 badge_name_HHE13=Affare Stanza Steampunk
