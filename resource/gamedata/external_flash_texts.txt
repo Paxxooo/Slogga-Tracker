@@ -20645,6 +20645,7 @@ handitem152=Dalgona a Quadrato
 handitem153=Biscotto Hello Kitty
 handitem154=Sciroppo Rosa
 handitem155=Bibita dell'Orso Luminoso
+handitem159=Pear Juice Box
 handitem15=Cioccolata Calda
 handitem163=Gelato Arcobaleno
 handitem165=Spiedino di Marshmallow
