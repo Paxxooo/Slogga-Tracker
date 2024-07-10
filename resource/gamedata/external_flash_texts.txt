@@ -17624,6 +17624,8 @@ collectibles.set.animal_clothes_23=Indumenti per Animali 2023
 collectibles.set.autumn_23=Autunno 2023
 collectibles.set.badges_23=Distintivi 2023
 collectibles.set.bee_nice=Ape Simpatica 
+collectibles.set.cirque_du_games=Cirque Du Games
+collectibles.set.cirque_du_pixels=Cirque Du Pixels
 collectibles.set.collector_rewards_22_23=Ricompense del Collezionista 2022-2023
 collectibles.set.collectors_guild=Gilda dei Collezionisti
 collectibles.set.community_rewards_22=Ricompense della Community 2022
@@ -31712,6 +31714,7 @@ quests.butterbadgesquest.1364225108058.name=ButterBadge XV
 quests.butterbadgesquest.name=Ducket volanti
 quests.campaigncompleted.caption=Missione Compiuta!
 quests.campaigncompleted.more=Altre Missioni
+quests.collectibles.name=Collezionabili 
 quests.completed.campaign.caption=Complimenti!
 quests.completed.campaign.title=%category% Missione Compiuta
 quests.completed.caption=Missione Compiuta
@@ -31731,6 +31734,8 @@ quests.completed.reward.1=La tua Ricompensa è di <b><font size="30" color="#7ad
 quests.completed.reward.2=Hai ricevuto una Ricompensa di <b><font size="30" color="#7adde9">%amount%</font></b> Cuori!
 quests.completed.reward.4=Sei stato ricompensato con <b><font size="30" color="#7adde9">%amount%</font></b> Conchiglie
 quests.completed.reward=Sei stato premiato con <b><font size="30" color="#7adde9">%amount%</font></b> %currencyname%
+quests.crackables.name=Crackable 
+quests.crafting.name=Crafting
 quests.crafting_hween23_5.1695031319471.chaincaption=Il Grande Creatore
 quests.crafting_hween23_5.1695031564585.completed=! Continua il crafting per completare tutte le missioni e vincere un premio!
 quests.crafting_hween23_5.1695031564585.desc=Creare, creare e creare ancora!
