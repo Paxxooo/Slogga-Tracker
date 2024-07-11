@@ -7584,6 +7584,7 @@ memenu.effects.widget.disabled=true
 menu.avatar.enabled=true
 menu.bot.enabled=false
 menu.own_avatar.enabled=1
+messenger.history.state.message.limit=100
 messenger.new.skin=true
 minimal.level.for.trading=15
 moderatoractionlog.url=https://theallseeingeye.sulake.com/ase/habbo/it/housekeeping/extra/hobba/moderator_activity.action?searchCriteria.habboName=
@@ -7845,8 +7846,8 @@ zoom.enabled=1
 
 flash.client.url=https://images.habbo.com/gordon/flash-assets-PRODUCTION-202407042353-760830251/
 new.user.flow.roomTypes=10,11,12
-external.texts.txt=https://www.habbo.it/gamedata/external_flash_texts/de6b311648f1c967597d8b12961d46a17e2b8367
-external.figurepartlist.txt=https://www.habbo.it/gamedata/figuredata/32fa103bfa4658fbeae47d38dbef0a331ffb413e
-productdata.load.url=http://www.habbo.it/gamedata/productdata/96ae7ae137e964bea807a1dfd9e45a70071ef46d
-furnidata.load.url=http://www.habbo.it/gamedata/furnidata_xml/89e8799480493cf769cf30b6816d364bef517a9e
-external.override.texts.txt=https://www.habbo.it/gamedata/override/external_flash_override_texts/de6b311648f1c967597d8b12961d46a17e2b8367
+external.texts.txt=https://www.habbo.it/gamedata/external_flash_texts/9dc614f249ebe9f93fdbe88793a6ffcdfd673b8b
+external.figurepartlist.txt=https://www.habbo.it/gamedata/figuredata/46b4480796f8ae92f2448bede08fa16a5b1d7471
+productdata.load.url=http://www.habbo.it/gamedata/productdata/c0436cddb1db1d411aeda6fa3ad240458b82b5d3
+furnidata.load.url=http://www.habbo.it/gamedata/furnidata_xml/16c47e02f7a713acf0b48abf6453e0c9e0c8914d
+external.override.texts.txt=https://www.habbo.it/gamedata/override/external_flash_override_texts/9dc614f249ebe9f93fdbe88793a6ffcdfd673b8b
