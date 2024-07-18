@@ -30843,6 +30843,7 @@ quests.BATTLE24.1720431039849.hint=Clicca 2 volte su un Tabellone Banzai di qual
 quests.BATTLE24.1720431039849.name=Tabellone Banzai
 quests.BATTLE24.1720431149805..desc=Attraversa una Porta Banzai e unisciti a una Squadra.
 quests.BATTLE24.1720431149805.completed=L'hai fatto davvero! Puoi cambiare Squadra entrando nel campo di Battaglia da una Porta Banzai di un altro colore in qualsiasi momento.
+quests.BATTLE24.1720431149805.desc=Attraversa una Porta Banzai e unisciti a una Squadra.
 quests.BATTLE24.1720431149805.hint=Sei pronto per Giocare: entra nell'Arena e attraversa una Porta Banzai!
 quests.BATTLE24.1720431149805.name=Entra nell'Arena
 quests.BATTLE24.1720431403209.completed=Per ogni casella conquistata la Squadra guadagna un punto. Al termine del Gioco, la Squadra che ha il punteggio maggiore vince!
