@@ -17774,6 +17774,7 @@ collectibles.transfer.error=Qualcosa è andato storto con il trasferimento. (Err
 collectibles.transfer.success=Trasferimento riuscito 
 collectibles.transfer=Trasferimento 
 colors=Colori
+community_rewards_24=Ricompense della Community 2024
 connection.error.id.desc=Ops, qualcosa è andato storto sul server. Codice di errore: %id%
 connection.error.id.title=Errore
 connection.login.account.choose=Seleziona un personaggio
