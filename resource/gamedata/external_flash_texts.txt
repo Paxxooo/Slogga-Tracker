@@ -775,7 +775,7 @@
 24circus01.text=Maghi del Caos!\n\nQuindi, stai cercando di aggiudicarti il tuo posto come nuova recluta nella troupe del circo? Sei fortunato/a! Stanno per iniziare il loro tour in Habbo e hanno bisogno di un po' di aiuto per preparare tutto in vista della grande inaugurazione.\nPer unirti a loro, devi prima dimostrare di esserne all'altezza completando una serie di sfide che hanno in serbo per te.\nIl tuo primo obiettivo è aiutare il mago Silvan a raccogliere tutti gli strumenti di cui ha bisogno per il suo spettacolo. Sei pronto/a alla sfida?\n\nCome si gioca:\n- Ascolta quello che Silvan ha da dirti e rispondi con **sì** se sei disposto ad aiutarlo.\n- Leggi attentamente la lista con tutti gli articoli che dovrai portargli, inizia a girare per la zona di gioco e raccoglili dicendo **prende** quando ti trovi accanto ad essi.\n- Fai attenzione ai Buttafuori che appariranno, non sanno che stai aiutando Silvan e cacceranno tutti coloro che considereranno intrusi.\n- Quando avrai raccolto tutti gli strumenti, torna al cancello d'entrata e dì **fatto!** per riscuotere i tuoi premi.
 24circus01.title=Cirque Du Pixels
 24circus02.image=web_promo_small/spromo_24circus02.png
-24circus02.text=Sfida su Una Ruota\n\nIl Maestro Monociclista non è del tutto convinto delle tue abilità e ti sfida ad una gara in monociclo intorno all'arena del circo.  È ora di mettere a prova il tuo equilibrio!\nCome si gioca:\n- La prima persona in fila verrà teletrasportata dentro il circo, dove lo aspetta il Maestro Monociclista.\n- Usa i blocchi rossi nel centro dell'arena per guidare il tuo monociclo.\n- Fai attenzione agli ostacoli lungo il percorso.\n- Raggiungi la Piattaforma da Circo Grande prima del Maestro Monociclista per vincere la partita. Buona fortuna!
+24circus02.text=Sfida su Una Ruota\n\nIl Maestro Monociclista non è del tutto convinto delle tue abilità e ti sfida ad una gara in monociclo intorno all'arena del circo.  È ora di mettere a prova il tuo equilibrio!\nCome si gioca:\n- La prima persona in fila verrà teletrasportata dentro il circo, dove lo aspetta il Maestro Monociclista.\n- Usa i blocchi rossi nel centro dell'arena per guidare il tuo monociclo.\n- Devi raccogliere tutte e 3 le palle rosse prima di raggiungere la fine del percorso.\n- Fai attenzione agli ostacoli lungo il percorso.\n- Raggiungi la Piattaforma da Circo Grande prima del Maestro Monociclista per vincere la partita. Buona fortuna!
 24circus02.title=Cirque Du Pixels
 24easter01.image=web_promo_small/spromo_witchcottage1.png
 24easter01.text=Intraprendi questa avventura con Petal, una giovane botanica in missione per trovare l'esistenza di creature magiche da tempo dimenticate. Petal ha cominciato a fare le ricerche da sola, chiedendo al saggio anziano della città, Ned, di aiutarla a trovare gli ingredienti necessari per la sua Missione.\n\nSfortunatamente, Ned non sa dove possano essere trovati gli ingredienti, ma ha trovato qualcuno che lo sa: l'enigmatica strega Hecate.\n\nIl tuo primo compito sarà quello di avventurarti nelle profondità della foresta per trovare il cottage nascosto della strega e ottenere da lei l'aiuto di cui hai bisogno.\n\nCome si gioca:\n\n - Cammina verso Darius e scopri se può aiutarti a incontrare la strega Hecate.\n - Trova tutte le rose nella stanza e calpestale per raccoglierle.\n - Quando hai finito, fermati di fronte al cesto e dì **crea bouquet**\n
@@ -17644,6 +17644,7 @@ collectibles.collector.wallet=Portafoglio del Collezionista
 collectibles.high_score=Il più alto XP di sempre:
 collectibles.info.description=La Gilda dei Collezionisti è un centro che i collezionisti possono utilizzare per visualizzare e gestire i loro XP del Collezionista, i loro collezionabili e le loro Reliquie. Per maggiori info riguardo le funzioni contenute nella Gilda, <a href="https://help.habbo.it/hc/it/sections/11942721777308-Habbo-Collezionabili">leggi QUI</a>.
 collectibles.info.title=info
+collectibles.info.trading=Se vuoi scambiare i Collezionabili nel tuo Portafoglio Ethereum all'interno di Habbo, dovrai spostarli nel tuo Portafoglio del Collezionista. Copia l'indirizzo del tuo Portafoglio del Collezionista dal <a href="%link%">menu delle impostazioni</a> del portafoglio, quindi accedi all'inventario sul <a href="https://collectibles.habbo.com/shop/?tab=inventory ">sito web dei Collezionabili</a> e utilizza la funzione di trasferimento per inviarli al tuo Portafoglio del Collezionista.
 collectibles.item.rarity=Rarità
 collectibles.item.type=Tipo
 collectibles.item.xp=XP
@@ -25895,9 +25896,9 @@ landing.view.may22tube.header=Tubo Magico XL RARO
 landing.view.may23carry.body=OMG un furni WIRED che trasporta utenti!? E' fantastico. Ancora meglio, se lo acquisti nelle prime 72 ore, riceverai un distintivo ESCLUSIVO! (Il distintivo sarà donato al termine della vendita).
 landing.view.may23carry.button=Guarda l'item
 landing.view.may23carry.header=Accessorio WIRED: Trasporta Utenti
-landing.view.may23cat.body=Questo Affare Stanza contiene TUTTI i nuovi Furni, esclusivi al 100%, per rendere operativo il nostro primo Cat Cafè Habbo. Non riusciamo a credere a quanto sia carino.
+landing.view.may23cat.body=Questo Affare Stanza contiene Furni esclusivi al 100%, per rendere operativo il nostro primo Cat Café Habbo. Non possiamo credere a quanto sia carino.
 landing.view.may23cat.button=Vedi l'Affare Stanza
-landing.view.may23cat.header=NUOVO: ESCLUSIVO Affare Stanza Cat Cafè
+landing.view.may23cat.header=ESCLUSIVO Affare Stanza Cat Cafè
 landing.view.may23cf.body=Usa la tua carta d'oro con questo tappeto in oro massiccio.
 landing.view.may23cf.button=Vedi l'oggetto
 landing.view.may23cf.header=RARO Tappeto in Oro Massiccio Furni di Credito
@@ -31798,6 +31799,7 @@ quests.augustcrafting24.1720611390516.completed=Ben fatto! Ti sei guadagnato il 
 quests.augustcrafting24.1720611390516.desc=Diamo vita al circo!
 quests.augustcrafting24.1720611390516.hint=Crea il Cappello da Mago Senza Fondo per completare questa Missione!
 quests.augustcrafting24.1720611390516.name=Cirque Du Pixels!
+quests.augustcrafting24.name=Cirque Du Pixels!
 quests.battleball.BBJOIN.completed=L'hai fatto davvero! Puoi cambiare Squadra entrando nel campo di Battaglia da una Porta Banzai di un altro colore in qualsiasi momento.
 quests.battleball.BBJOIN.desc=Attraversa una Porta Banzai e unisciti a una Squadra.
 quests.battleball.BBJOIN.hint=Sei pronto per Giocare: entra nell'Arena e attraversa una Porta Banzai!
