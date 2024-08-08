@@ -31777,6 +31777,7 @@ quests.augustcrafting24.1720610669541.hint=Crea il Maestro Monociclista per comp
 quests.augustcrafting24.1720610669541.name=Cirque Du Pixels!
 quests.augustcrafting24.1720610877141.completed=Congratulazioni! Continua a creare per completare tutte le missioni e vincere un distintivo esclusivo e un po' di valuta stagionale!
 quests.augustcrafting24.1720610877141.desc=Diamo vita al circo!
+quests.augustcrafting24.1720610877141.hint=Crea il Maestro Acrobata per completare questa Missione!
 quests.augustcrafting24.1720610877141.name=Cirque Du Pixels!
 quests.augustcrafting24.1720610877141XX.hint=Crea il Maestro Acrobata per completare questa Missione!
 quests.augustcrafting24.1720610953609.completed=Congratulazioni! Continua a creare per completare tutte le missioni e vincere un distintivo esclusivo e un po' di valuta stagionale!
