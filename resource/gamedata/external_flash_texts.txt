@@ -24078,6 +24078,7 @@ landing.view.habbo15school.body=Quindi ci siamo, è arrivata la fine dell'Estate
 landing.view.habbo15school.button=Guarda i Furni
 landing.view.habbo15school.header=Non disperare se la scuola sta per iniziare
 landing.view.habbo15schoolbundle.body=Le vacanze finiscono e sappiamo bene che non è per niente piacevole dover ritornare alla routine quotidiana della scuola, ma ora puoi dare alle tue giornate una marcia in più con questo Affare Stanza ritorno a Scuola! Include un Armadietto Teletrasporto e un Distintivo esclusivo
+landing.view.habbo15schoolbundle.button=Guarda l'Affare Stanza
 landing.view.habbo15schoolbundle.header=Affare Stanza Ritorno a Scuola
 landing.view.habbo15steampunk.body=Cammina attraverso il tuo nuovo ufficio BLING, saluta il lavavetri, passa sotto al Lampadario Bling e sali le scale fino alla tua luccicante Stanza Steampunk. In questo particolare Affare Stanza, abbiamo aggiunto molti nuovi Furni alle linee Steampunk, Bling e Executive. Siamo inoltre lieti di annunciare che abbiamo incluso anche un ESCLUSIVO Letto Steampunk. E non dimenticarti del Distintivo, che è disponibile SOLO con l'affare Stanza Steampunk Bunk!
 landing.view.habbo15steampunk.button=Vedi l'Affare Stanza!
