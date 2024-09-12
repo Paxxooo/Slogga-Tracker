@@ -18477,6 +18477,7 @@ featured.offer.bundle68.title=Stanza Mini Jurassic Habbo
 featured.offer.bundle69.title=Velociraptor Slaapplek Bundel
 featured.offer.bundle70.title=Nido del Pterodactylus
 featured.offer.bundle82.title=Vacanza Studio a Parigi
+featured.offer.bundle83.title=Affare Stanza Ritorno a Scuola
 featured.offer.bundle9.title=Affare Stanza Winter-lympix Aggiornato
 featured.offer.bundle94.title=Affare Stanza Habbocalypse 
 featured.offer.bundle96.title=Affare Stanza Ristorante di Classe
