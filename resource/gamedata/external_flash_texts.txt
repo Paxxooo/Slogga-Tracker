@@ -37700,6 +37700,14 @@ targeted.offer.nov23_tto_gr1.desc=<a href="event:habbopages/tko_blackfriday23_1"
 targeted.offer.nov23_tto_gr1.title=MEGA Offerta Black Friday
 targeted.offer.nov23_tto_gr2.desc=<a href="event:habbopages/tko_blackfriday23_2">Questa offerta include 80 monete di bronzo + 3x Golden H-Station + 60x Mare della Galassia + HC 3 mesi + Distintivo
 targeted.offer.nov23_tto_gr2.title=MEGA Offerta Black Friday
+targeted.offer.nov24_rm_dbl_tto240.desc=Ottieni 220 Crediti e Diamanti al prezzo di 110! (offerta limitata a 3 acquisti per Habbo)
+targeted.offer.nov24_rm_dbl_tto240.title=Sconto 50 per cento 220c+d
+targeted.offer.nov24_rm_dbl_tto241.desc=Ottieni 50 Crediti e Diamanti al prezzo di 25! (offerta limitata a 1 acquisto per Habbo)
+targeted.offer.nov24_rm_dbl_tto241.title=Sconto 50 per cento 50c+d
+targeted.offer.nov24_rm_dbl_tto242.desc=Ottieni 220 Crediti e Diamanti al prezzo di 110! (offerta limitata a 3 acquisti per Habbo)
+targeted.offer.nov24_rm_dbl_tto242.title=Sconto 50 per cento 220c+d
+targeted.offer.nov24_rm_dbl_tto243.desc=Ottieni 50 Crediti e Diamanti al prezzo di 25! (offerta limitata a 1 acquisto per Habbo)
+targeted.offer.nov24_rm_dbl_tto243.title=Sconto 50 per cento 50c+d
 targeted.offer.ny16_tko_gr1.desc=Non presentarti al Veglione di Capodanno senza  questi incredibili Furni festivi! Coriandoli, drink, stelle... Non perderteli! <br><br>L'Offerta è limitata a una persona e include:<br>- 70 Monete di Bronzo (di valore pari a 70c)<br>- <a href="event:habbopages/habboclub">1 Mese di HC</a> (di valore pari a 25c)<br>- Decorazione Stella Sgargiante Raro (di valore pari a 25c)<br>- Bar da Festa (di valore pari a 8c)<br>- Palloncino con Coriandoli (di valore pari a 6c)<br>- Pavimento con Coriandoli Piccolo (di valore pari a 2c)<br>- Distintivo Raro (gratuito)
 targeted.offer.ny16_tko_gr1.title=Offerta Anno Nuovo Stellato
 targeted.offer.ny16_tko_gr2.desc=Fai in modo che si parli del tuo Veglione di Capodanno per anni con questa SPETTACOLARE offerta!<br><br>L'Offerta è limitata a un per persona e include:<br>- Anello di Smeraldo (di valore pari a 100c)<br>- <a href="event:habbopages/habboclub">3 Mesi di HC</a> (di valore pari a 60c)<br>- Decorazione Stella Sgargiante Raro (di valore pari a 25c)<br>- Bar da Festa (di valore pari a 8c)<br>- Palloncino con Coriandoli (di valore pari a 6c)<br>- Pavimento con Coriandoli Grande x4  (di valore pari a 16c)<br>- Vassoio per i Drink (di valore pari a 3c)<br>- Palloncini dell'Anno Nuovo (di valore pari a 3c)<br>- Distintivo Raro (gratuito)
@@ -37736,6 +37744,14 @@ targeted.offer.oct23_rm_dbl_tto190.desc=Ottieni 220 Crediti e Diamanti al prezzo
 targeted.offer.oct23_rm_dbl_tto190.title=Sconto 50 per cento 220c+d
 targeted.offer.oct23_rm_dbl_tto191.desc=Ottieni 50 Crediti e Diamanti al prezzo di 25! (offerta limitata a 1 acquisto per Habbo)
 targeted.offer.oct23_rm_dbl_tto191.title=50 per cent Off 50 Credits
+targeted.offer.oct24_rm_dbl_tto236.desc=Ottieni 220 Crediti e Diamanti al prezzo di 110! (offerta limitata a 3 acquisti per Habbo)
+targeted.offer.oct24_rm_dbl_tto236.title=Sconto 50 per cento 220c+d
+targeted.offer.oct24_rm_dbl_tto237.desc=Ottieni 50 Crediti e Diamanti al prezzo di 25! (offerta limitata a 1 acquisto per Habbo)
+targeted.offer.oct24_rm_dbl_tto237.title=Sconto 50 per cento 50c+d
+targeted.offer.oct24_rm_dbl_tto238.desc=Ottieni 220 Crediti e Diamanti al prezzo di 110! (offerta limitata a 3 acquisti per Habbo)
+targeted.offer.oct24_rm_dbl_tto238.title=Sconto 50 per cento 220c+d
+targeted.offer.oct24_rm_dbl_tto239.desc=Ottieni 50 Crediti e Diamanti al prezzo di 25! (offerta limitata a 1 acquisto per Habbo)
+targeted.offer.oct24_rm_dbl_tto239.title=Sconto 50 per cento 50c+d
 targeted.offer.open.habbomall=Apri lo Shop
 targeted.offer.palooza_tko_gr1.desc=Con questo pacchetto avrai accesso ai MIGLIORI vestiti e acconciature dell'Hotel con l'iscrizione HC, ed in più otterrai un nuovo scintillante Distintivo e una manciata di bei Furni. <br><br>L'Offerta è limitata a 3 per persona e include:<br>- 65 monete di Bronzo (di valore pari a 65c)<br>- <a href="event:habbopages/habboclub">1 Mese di HC</a> (di valore pari a 25c)<br>- Tenda da campeggio Hoopla (di valore pari a 20c)<br>- Acchiappa-L'anatra (di valore pari a 15c)<br>- Pista d'Atterraggio con Aeroplano Rosso (di valore pari a 8c)<br>- Pista d'Atterraggio con Aeroplano Blu (di valore pari a 8c)<br>- Distintivo (gratuito)
 targeted.offer.palooza_tko_gr1.title=Pacchetto Festival Habbo 15
