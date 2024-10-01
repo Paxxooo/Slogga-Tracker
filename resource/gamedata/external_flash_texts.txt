@@ -30998,6 +30998,7 @@ promotedroomcategory.starsRoomComp=Habbo Stars
 promotedroomcategory.vipParties1=Party su yacht
 promotedroomcategory.vipParties2=Anteprime
 promotedroomcategory.vipParties3=Party da ricconi
+pumpkins.currency.name=Zucche
 purchase.confirmation.dialog.buying=Stai acquistando
 purchase.confirmation.dialog.confirm=Confirma acquisto
 purchase.confirmation.dialog.dont.ask=Non ricordamelo più per questa sessione.
