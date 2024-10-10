@@ -21539,6 +21539,7 @@ inventory.buildersclub.borrowed.items=Furni usati:
 inventory.buildersclub.membership.left=Tempo rimasto:
 inventory.buildersclub.search.notfound=Non siamo riusciti a trovare nulla di simile. Prova a cercare qualcos'altro o a utilizzare un termine di ricerca diverso!
 inventory.buildersclub.title=Builders' Club
+inventory.collectibles=Collezionabili 
 inventory.create_own_card=Make your own
 inventory.effects.active=L'effetto è ora attivo. Tempo rimanente %timeleft%/%duration%. Hai ancora %itemcount% effetti disponibili.
 inventory.effects.defaultdescription=Non hai ancora Distintivi. Quando ne riceverai, potrai qui scegliere quali indossare.
