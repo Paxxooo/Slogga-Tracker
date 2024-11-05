@@ -17818,6 +17818,7 @@ collectibles.set.community_rewards_23=Ricompense della Community 2023
 collectibles.set.cpu_parts=Parti CPU
 collectibles.set.dragonfly_farmstead=Fattoria Delle Libellule 
 collectibles.set.dragonfly_florist=Fioraio Libellula
+collectibles.set.dream_kingdom=Il Regno dei Sogni
 collectibles.set.ducks_22_23=Anatroccoli 2022-2023
 collectibles.set.elvira_the_witchs_coutre=Couture di Elvira La Strega 
 collectibles.set.extras_22=Extra 2022
