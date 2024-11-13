@@ -35246,6 +35246,7 @@ quests.nov24_gladiator.1731332659011.completed=Che bontà!
 quests.nov24_gladiator.1731332659011.desc=Troviamo degli spuntini 
 quests.nov24_gladiator.1731332659011.hint=Trova del cibo per soddisfare la tua fame. 
 quests.nov24_gladiator.1731332659011.name=Gli Imperatori mangiano 
+quests.nov24_gladiator.name=L'Ascesa dei Gladiatori 
 quests.nov24_gladiator=L'Ascesa dei Gladiatori 
 quests.nov24crafting.1728379354198.completed=Il tuo Furni del Regno dei Sogni è pronto! Che la magia abbia inizio!
 quests.nov24crafting.1728379354198.desc=Crafta il Furni Regno dei Sogni e fai dei tuoi sogni realtà!
