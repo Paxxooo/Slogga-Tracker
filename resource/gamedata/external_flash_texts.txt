@@ -37598,7 +37598,6 @@ safetylock.unlock.failed=Sblocco fallito! <br>Controlla le risposte e riprova.
 safetylock.unlock.instructions=Per rimouovere il blocco di sicurezza, rispondi a queste domande di sicurezza.Puoi inoltre impostare questo dispositivo come affidabile per evitare che questo messaggio si ripeta.
 safetylock.unlock.title=Domande di sicurezza
 save=Salva
-save=Voglio questo look!
 score_value_text=Punteggio
 selected_badges=Stai indossando:
 sell.in.marketplace.price.per.item=Prezzo per item
