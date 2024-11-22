@@ -21145,6 +21145,7 @@ handitem163=Gelato Arcobaleno
 handitem165=Spiedino di Marshmallow
 handitem166=Cupcake Dito
 handitem167=Mini Vanilla Ice Cream
+handitem168=Patata
 handitem16=Gassosa
 handitem17=Chinotto
 handitem182=Pistola a Raggi
