@@ -38561,6 +38561,10 @@ targeted.offer.nov24_tto1.desc=Questo affare include 70 monete di bronzo + Sciar
 targeted.offer.nov24_tto1.title= Offerta Black Friday 2024
 targeted.offer.nov24_tto2.desc=Questo affare include 80 monete di bronzo + 2 Sciarpe dei Sogni Lunghe Esclusive  + 3 mesi di BC + 500 Argento + Distintivo
 targeted.offer.nov24_tto2.title= Offerta Black Friday 2024
+targeted.offer.nov24_tto_gr1.desc=Questo affare include 70 monete di bronzo + Sciarpa dei Sogni Lunga Esclusiva + 1 mese di BC + 500 Argento + Distintivo 
+targeted.offer.nov24_tto_gr1.title= Offerta Black Friday 2024
+targeted.offer.nov24_tto_gr2.desc=Questo affare include 80 monete di bronzo + 2 Sciarpe dei Sogni Lunghe Esclusive  + 3 mesi di BC + 500 Argento + Distintivo
+targeted.offer.nov24_tto_gr2.title= Offerta Black Friday 2024
 targeted.offer.nov24blackfriday.desc=In esclusiva per il Black Friday! Vieni a prendere la tua nuova sciarpa lunga per coprirti durante l'inverno.
 targeted.offer.nov24blackfriday.title=Sciarpa Avvolgente
 targeted.offer.ny16_tko_gr1.desc=Non presentarti al Veglione di Capodanno senza  questi incredibili Furni festivi! Coriandoli, drink, stelle... Non perderteli! <br><br>L'Offerta è limitata a una persona e include:<br>- 70 Monete di Bronzo (di valore pari a 70c)<br>- <a href="event:habbopages/habboclub">1 Mese di HC</a> (di valore pari a 25c)<br>- Decorazione Stella Sgargiante Raro (di valore pari a 25c)<br>- Bar da Festa (di valore pari a 8c)<br>- Palloncino con Coriandoli (di valore pari a 6c)<br>- Pavimento con Coriandoli Piccolo (di valore pari a 2c)<br>- Distintivo Raro (gratuito)
