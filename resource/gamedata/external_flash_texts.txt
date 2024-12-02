@@ -19614,6 +19614,7 @@ featured.offer.xmas24fest.title=RITORNANO: Indumenti Festivi
 featured.offer.xmas24furni.title=NUOVI: Furni Natale Accogliente
 featured.offer.xmas24r3.title=Halo Scintillante RARO
 featured.offer.xmas24sc.title=NOVITÀ: Valuta stagionale Collezionabili!
+featured.xmas24crack1.title=Regalo Rosso
 figure.error=Errore nel cambio look!
 figure.ok=Cambio look ok!
 floor.editor.wall.height=Altezza Parete
