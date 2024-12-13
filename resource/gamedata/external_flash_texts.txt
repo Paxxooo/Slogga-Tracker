@@ -38541,6 +38541,14 @@ targeted.offer.jan24_rm_dbl_tto202.title=Sconto 50 per cento 220c+d
 targeted.offer.jan24_rm_dbl_tto203.desc=Ottieni 50 Crediti e Diamanti al prezzo di 25! (offerta limitata a 1 acquisto per Habbo)
 targeted.offer.jan24_rm_dbl_tto203.title=50 per cent Off 50 Credits
 targeted.offer.jan24_thailand.title=20% di sconto Offerta Tailandia Tropicale
+targeted.offer.jan25_rm_dbl_tto248.desc=Ottieni 220 Crediti e Diamanti al prezzo di 110! (offerta limitata a 3 acquisti per Habbo)
+targeted.offer.jan25_rm_dbl_tto248.title=Sconto 50 per cento 220c+d
+targeted.offer.jan25_rm_dbl_tto249.desc=Ottieni 50 Crediti e Diamanti al prezzo di 25! (offerta limitata a 1 acquisto per Habbo)
+targeted.offer.jan25_rm_dbl_tto249.title=Sconto 50 per cento 50c+d
+targeted.offer.jan25_rm_dbl_tto250.desc=Ottieni 220 Crediti e Diamanti al prezzo di 110! (offerta limitata a 3 acquisti per Habbo)
+targeted.offer.jan25_rm_dbl_tto250.title=Sconto 50 per cento 220c+d
+targeted.offer.jan25_rm_dbl_tto251.desc=Ottieni 50 Crediti e Diamanti al prezzo di 25! (offerta limitata a 1 acquisto per Habbo)
+targeted.offer.jan25_rm_dbl_tto251.title=Sconto 50 per cento 50c+d
 targeted.offer.journey2_tto_np_gr1.desc=Fai sul serio con la Costruzione grazie a questo Pacchetto e ottieni l'accesso a tutti i FANTASTICI Furni presenti conentuti nel Magazzino Builders' Club!Questa è un'irripetibile offerta ESCLUSIVA.<br><br>L'Offerta è limitata ad una per persona ed include:<br>- L'Affare Stanza Cucina accogliente (valore 30c + 30d)<br>- <a href="event:habbopages/builders-club/info">BC 7 giorni</a> (valore 30c + 30d)
 targeted.offer.journey2_tto_np_gr1.title=Pacchetto Pro-Builder
 targeted.offer.journey2_tto_np_gr2.desc=Ti piace FARE FESTA, e non aspetti altro che organizzarne una! Assicurati di essere in gradodi poter ospitare l'Habbo festa del secolo con questa irripetibile offerta ESCLUSIVA!<br><br>L'Offerta è limitata ad una per persona ed include:<br>- 4 Elementi da Party (valore 15c)<br>- <a href="event:habbopages/habboclub">HC 1 mese</a> (valore 50c + 50d)<br>- 10 credits
