@@ -17934,6 +17934,7 @@ collectibles.set.keychar_collection=Tastiera
 collectibles.set.kryptomon_2023=Kryptomon 2023
 collectibles.set.last_ice_of_winter=L’Ultimo Ghiaccio D’Inverno
 collectibles.set.limited_editions_2022_2023=Edizioni Limitate 2022-2023
+collectibles.set.lunar_new_year_2025=Capodanno Lunare 2025
 collectibles.set.maudes_marshmallow_set=Set Marshmellow di Maude 
 collectibles.set.maudes_marshmellow_set=Set Marshmellow di Maude
 collectibles.set.maudes_mini_world=Mini World di Maude
