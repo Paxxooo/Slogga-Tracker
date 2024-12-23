@@ -19675,6 +19675,7 @@ featured.offer.xmas23rmthrone=Trono Torta
 featured.offer.xmas23santa.title=NUOVO: Indumenti da Babbo Natale Piccanti
 featured.offer.xmas23workshopbundle.title=NUOVO: Laboratorio Moderno di Babbo Natale
 featured.offer.xmas24cloth.title=NUOVI: Indumenti Comodi
+featured.offer.xmas24crack1.title=Red Present
 featured.offer.xmas24fest.title=RITORNANO: Indumenti Festivi
 featured.offer.xmas24furni.title=NUOVI: Furni Natale Accogliente
 featured.offer.xmas24obbahpets.title=I Cuccioli Obbah Wobbah sono tornati!
