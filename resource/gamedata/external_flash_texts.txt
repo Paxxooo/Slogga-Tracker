@@ -32207,6 +32207,7 @@ quests.Horse_12_7.1331039871766.desc=Chiama 7 Amici e mettiti in formazione 'Fer
 quests.Horse_12_7.1331039871766.hint=Mostra le tue abilità da Cavallerizzo! Mettiti in formazione insieme a 7 Amici, forma un Ferro di Cavallo e stai in formazione per 10 secondi.
 quests.Horse_12_7.1331039871766.name=Tutti in formazione!
 quests.Horse_12_7.name=Quasi alla fine!
+quests.NY2024.name=Buon 2025!
 quests.PLAYBATTLE24.name=Battle Banzai Tutorial
 quests.PLAYFREEZE24.1715080822006.chaincaption=Gioca a Freeze!
 quests.PLAYFREEZE24.1715080873408.completed=Evvai! Li hai proprio raggelati!
